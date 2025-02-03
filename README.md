@@ -1,6 +1,6 @@
 ### Projects for the course CMPE160 - Introduction to Object Oriented Programming
 
-Term: 2021 Spring
+Term: Spring 2021
 
 | Project # | Project Name | Project Description |
 |----|----|----|
